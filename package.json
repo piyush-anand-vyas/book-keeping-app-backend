@@ -4,7 +4,8 @@
   "description": "This app is designed to keep track of books of users",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "watch": "nodemon index.js"
   },
   "author": "Piyush Vyas",
   "license": "ISC",
