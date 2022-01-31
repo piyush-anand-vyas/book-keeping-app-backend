@@ -8,6 +8,9 @@
     "watch": "nodemon index.js"
   },
   "author": "Piyush Vyas",
+  "engines": {
+    "node": "14.x"
+  },
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
